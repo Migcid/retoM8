@@ -1,0 +1,17 @@
+body{
+    width: 100%;
+}
+.bg-image {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-image: url("../images/front-right-side-blue-sedan-car.jpg");
+}
+.formulario{
+    display: flex;
+    justify-content: center;
+}
+
+.circle{
+    border-radius: 50%;
+}
